@@ -1,0 +1,1 @@
+export { createComponents } from "./factory";
